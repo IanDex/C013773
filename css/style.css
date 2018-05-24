@@ -121,3 +121,7 @@
 
 /* MAD-CELL */
 .cell{padding: 8px 16px; overflow:auto;}
+
+.row div h2 {
+margin-bottom:0rem;
+}

@@ -84,7 +84,7 @@
 
                                 <div class="listview__scroll scrollbar-inner">
                                     <a href="#" class="listview__item">
-                                        <img src="demo/img/profile-pics/1.jpg" class="listview__img" alt="">
+                                        <img src="http://localhost/bs4/demo/img/profile-pics/1.jpg" class="listview__img" alt="">
 
                                         <div class="listview__content">
                                             <div class="listview__heading">David Belle</div>
@@ -93,7 +93,7 @@
                                     </a>
 
                                     <a href="#" class="listview__item">
-                                        <img src="demo/img/profile-pics/2.jpg" class="listview__img" alt="">
+                                        <img src="http://localhost/bs4/demo/img/profile-pics/2.jpg" class="listview__img" alt="">
 
                                         <div class="listview__content">
                                             <div class="listview__heading">Jonathan Morris</div>
@@ -102,7 +102,7 @@
                                     </a>
 
                                     <a href="#" class="listview__item">
-                                        <img src="demo/img/profile-pics/3.jpg" class="listview__img" alt="">
+                                        <img src="http://localhost/bs4/demo/img/profile-pics/3.jpg" class="listview__img" alt="">
 
                                         <div class="listview__content">
                                             <div class="listview__heading">Fredric Mitchell Jr.</div>
@@ -111,7 +111,7 @@
                                     </a>
 
                                     <a href="#" class="listview__item">
-                                        <img src="demo/img/profile-pics/4.jpg" class="listview__img" alt="">
+                                        <img src="http://localhost/bs4/demo/img/profile-pics/4.jpg" class="listview__img" alt="">
 
                                         <div class="listview__content">
                                             <div class="listview__heading">Glenn Jecobs</div>
@@ -120,7 +120,7 @@
                                     </a>
 
                                     <a href="#" class="listview__item">
-                                        <img src="demo/img/profile-pics/5.jpg" class="listview__img" alt="">
+                                        <img src="http://localhost/bs4/demo/img/profile-pics/5.jpg" class="listview__img" alt="">
 
                                         <div class="listview__content">
                                             <div class="listview__heading">Bill Phillips</div>
@@ -129,7 +129,7 @@
                                     </a>
 
                                     <a href="#" class="listview__item">
-                                        <img src="demo/img/profile-pics/1.jpg" class="listview__img" alt="">
+                                        <img src="http://localhost/bs4/demo/img/profile-pics/1.jpg" class="listview__img" alt="">
 
                                         <div class="listview__content">
                                             <div class="listview__heading">David Belle</div>
@@ -138,7 +138,7 @@
                                     </a>
 
                                     <a href="#" class="listview__item">
-                                        <img src="demo/img/profile-pics/2.jpg" class="listview__img" alt="">
+                                        <img src="http://localhost/bs4/demo/img/profile-pics/2.jpg" class="listview__img" alt="">
 
                                         <div class="listview__content">
                                             <div class="listview__heading">Jonathan Morris</div>
@@ -147,7 +147,7 @@
                                     </a>
 
                                     <a href="#" class="listview__item">
-                                        <img src="demo/img/profile-pics/3.jpg" class="listview__img" alt="">
+                                        <img src="http://localhost/bs4/demo/img/profile-pics/3.jpg" class="listview__img" alt="">
 
                                         <div class="listview__content">
                                             <div class="listview__heading">Fredric Mitchell Jr.</div>

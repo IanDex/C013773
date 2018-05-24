@@ -119,13 +119,15 @@ $('body #colores').on('click', 'label', function(){
   actualizarHora();
   var intervalo = setInterval(actualizarHora,1000);
 });
+
+
 });
 
 (function(){
 
   var t = {
     playlist: [
-      {
+  /*    {
         file: "img/resources/tracks/01.mp3",
         thumb: "img/resources/thumbs/01.jpg",
         trackName: "Explicale",
@@ -341,10 +343,10 @@ $('body #colores').on('click', 'label', function(){
         trackName: "Tu no metes cabra",
         trackArtist: "Bad Bunny Remix",
         trackAlbum: "Single",
-      },
+      },*/
       {
         file: "https://www.w3schools.com/html/horse.mp3",
-        thumb: "img/resources/thumbs/03.jpg",
+        thumb: "http://localhost/bs4/img/resources/thumbs/03.jpg",
         trackName: "Tu no metes cabra",
         trackArtist: "Bad Bunny Remix",
         trackAlbum: "Single",
